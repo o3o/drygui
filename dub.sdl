@@ -1,0 +1,6 @@
+name "drygui"
+description "Raygui porting"
+authors "o3o"
+copyright "Copyright © 2019, o3o"
+license "proprietary"
+dependency "raylib_d" version="~>2.0.6"
